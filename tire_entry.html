@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<form>
+    <h4>Bike</h4>
+    <label for="selClass">Class: </label>
+    <select id="selClass">
+        <option></option>
+    </select>
+    <label for="selRider">Rider: </label>
+    <select id="selRider">
+        <option></option>
+    </select>
+
+    <label for="inptRiderNum">Rider Number:</label>
+    <input id="inptRiderNum" type="number">
+
+    <h4>Tire</h4>
+    <input id="position" type="radio">
+    <label for="selCpd">Compound: </label>
+    <select id="selCpd">
+        <option>R0</option>
+        <option>R3</option>
+        <option>R5</option>
+        <option>R7</option>
+        <option>R8</option>
+    </select>
+
+    <label for="tireId">Tire ID:</label>
+    <input id="tireId" type="text">
+
+    <br>
+    <label for="tireTempL">Left</label>
+    <input id="tireTempL" type="number">
+    <label for="tireTempM">Middle</label>
+    <input id="tireTempM" type="number">
+    <label for="tireTempR">Right</label>
+    <input id="tireTempR" type="number">
+
+    <br>
+    <label for="tirePressure">Pressure</label>
+    <input id="tirePressure" type="number">
+
+    <h4>Conditions</h4>
+    <label for="ambTemp">Ambient Temp [C]</label>
+    <input id="ambTemp" type="number">
+
+    <label for="trackTemp">Track Temp [C]</label>
+    <input id="trackTemp" type="number">
+
+    <label for="cloudCover">Clouds [%]</label>
+    <input id="cloudCover" type="number">
+
+    <h4>Time</h4>
+    <label for="time">Time</label>
+    <input id="time" type="time">
+
+    <h4>Save</h4>
+    <label for="submit">Record Tire</label>
+    <input id="submit" type="submit">
+</form>
+</body>
+
+<script type="module" src="tire_entry.js"></script>
+</html>

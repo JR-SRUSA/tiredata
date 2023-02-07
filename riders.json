@@ -1,0 +1,360 @@
+{
+  "Medallia Superbike": [
+    {
+      "number": 1,
+      "name": "Jake Gagne",
+      "team": "Fresh N Lean Progressive Yamaha Racing",
+      "bike": "Yamaha YZF -R1"
+    },
+    {
+      "number": 2,
+      "name": "Josh Herrin",
+      "team": "Warhorse HSBK Racing Ducati NYC",
+      "bike": "Ducati Panigale V4 R "
+    },
+    {
+      "number": 9,
+      "name": "Danilo Petrucci",
+      "team": "Warhorse HSBK Racing Ducati NYC",
+      "bike": "Ducati Panigale V4 R "
+    },
+    {
+      "number": 10,
+      "name": "Travis Wyman",
+      "team": "Tytlers Cycle/RideHVMC Racing",
+      "bike": "BMW M 1000 RR "
+    },
+    {
+      "number": 11,
+      "name": "Mathew Scholtz",
+      "team": "Westby Racing",
+      "bike": "Yamaha YZF -R1"
+    },
+    {
+      "number": 14,
+      "name": "Andrew Lee",
+      "team": "Cycle World/Octane/Chuckwalla Racing",
+      "bike": "Suzuki GSX -R1000 "
+    },
+    {
+      "number": 15,
+      "name": "Jeremiah Walker",
+      "team": "Team Posse/Aerojwalk",
+      "bike": "Ducati Panigale V4 R "
+    },
+    {
+      "number": 16,
+      "name": "Ezra Beaubier",
+      "team": "Motorsport Exotica Orange Cat BST Racing",
+      "bike": "BMW M 1000 RR "
+    },
+    {
+      "number": 17,
+      "name": "Hunter Dunham",
+      "team": "Hunter Dunham Racing",
+      "bike": "Yamaha YZF -R1"
+    },
+    {
+      "number": 18,
+      "name": "Zachary Butler",
+      "team": "Redline -Moto",
+      "bike": "Yamaha YZF -R1"
+    },
+    {
+      "number": 20,
+      "name": "Manuel Segura",
+      "team": "Red Lobo Racing",
+      "bike": "Kawasaki ZX -10R"
+    },
+    {
+      "number": 21,
+      "name": "Nolan Lamkin",
+      "team": "Tom Wood Powersports",
+      "bike": "BMW S 1000 RR "
+    },
+    {
+      "number": 22,
+      "name": "Ashton Yates",
+      "team": "Aftercare Hayes Scheibe Racing",
+      "bike": "BMW S 1000 RR "
+    },
+    {
+      "number": 23,
+      "name": "Corey Alexander",
+      "team": "Tytlers Cycle/RideHVMC Racing",
+      "bike": "BMW M 1000 RR "
+    },
+    {
+      "number": 25,
+      "name": "David Anthony",
+      "team": "ADR Motorsports",
+      "bike": "Suzuki GSX -R1000 "
+    },
+    {
+      "number": 33,
+      "name": "Kyle Wyman",
+      "team": "Tytlers Cycle Racing",
+      "bike": "BMW M 1000 RR "
+    },
+    {
+      "number": 40,
+      "name": "Dallas Sherman Jr.",
+      "team": "Team Posse",
+      "bike": "Yamaha YZF -R1M "
+    },
+    {
+      "number": 41,
+      "name": "Maximiliano Gerardo",
+      "team": "PDR Motorsports",
+      "bike": "Kawasaki ZX -10R"
+    },
+    {
+      "number": 42,
+      "name": "Jeremy Coffey",
+      "team": "Triple M",
+      "bike": "Suzuki GSX -R1000 "
+    },
+    {
+      "number": 43,
+      "name": "Michael Butler",
+      "team": "Redline -Moto",
+      "bike": "Yamaha YZF -R1"
+    },
+    {
+      "number": 45,
+      "name": "Cameron Petersen",
+      "team": "Fresh N Lean Progressive Yamaha Racing",
+      "bike": "Yamaha YZF -R1"
+    },
+    {
+      "number": 54,
+      "name": "Richie Escalante",
+      "team": "Vision Wheel M4 ECSTAR Suzuki",
+      "bike": "Suzuki GSX -R1000 "
+    },
+    {
+      "number": 66,
+      "name": "PJ Jacobsen",
+      "team": "Tytlers Cycle Racing",
+      "bike": "BMW M 1000 RR "
+    },
+    {
+      "number": 69,
+      "name": "Hayden Gillim",
+      "team": "Disrupt Racing",
+      "bike": "Suzuki GSX -R1000 "
+    },
+    {
+      "number": 72,
+      "name": "Steven Shakespeare",
+      "team": "3D Motorsports",
+      "bike": "Yamaha YZF -R1"
+    },
+    {
+      "number": 75,
+      "name": "Gary Virgin",
+      "team": "Evansville SBK Racing",
+      "bike": "Yamaha YZF -R1M "
+    },
+    {
+      "number": 77,
+      "name": "Bobby Davies",
+      "team": "Flo4Law Racing",
+      "bike": "Yamaha YZF -R1"
+    },
+    {
+      "number": 79,
+      "name": "Eziah Davis",
+      "team": "CW Moto Racing",
+      "bike": "Yamaha YZF -R1"
+    },
+    {
+      "number": 80,
+      "name": "Hector Barbera",
+      "team": "Tytlers Cycle Racing",
+      "bike": "BMW M 1000 RR "
+    },
+    {
+      "number": 84,
+      "name": "Josh Gerardot",
+      "team": "Josh Gerardot Racing",
+      "bike": "Kawasaki ZX -10R"
+    },
+    {
+      "number": 85,
+      "name": "Jake Lewis",
+      "team": "Vision Wheel M4 ECSTAR Suzuki",
+      "bike": "Suzuki GSX -R1000 "
+    },
+    {
+      "number": 87,
+      "name": "Ryan Burke",
+      "team": "Burke Racing",
+      "bike": "Yamaha YZF -R1"
+    },
+    {
+      "number": 88,
+      "name": "Max Flinders",
+      "team": "Thrashed Bike Racing",
+      "bike": "Yamaha YZF -R1"
+    },
+    {
+      "number": 90,
+      "name": "Zachary Schumacher",
+      "team": "Tytlers Cycle/RideHVMC Racing",
+      "bike": "BMW M 1000 RR "
+    },
+    {
+      "number": 92,
+      "name": "Jason Waters",
+      "team": "Edge Racing",
+      "bike": "BMW M 1000 RR "
+    },
+    {
+      "number": 93,
+      "name": "Luie Zendejas",
+      "team": "Luie Zendejas Racing",
+      "bike": "BMW M 1000 RR "
+    },
+    {
+      "number": 94,
+      "name": "Danilo Lewis",
+      "team": "Tecfil Racing",
+      "bike": "BMW S 1000 RR "
+    },
+    {
+      "number": 96,
+      "name": "Brandon Paasch",
+      "team": "Altus Motorsports",
+      "bike": "Suzuki GSX -R1000 "
+    },
+    {
+      "number": 99,
+      "name": "Geoff May",
+      "team": "VisionWheel/DiscountTire/KWS",
+      "bike": "Honda CBR1000RR -R SP "
+    }
+  ],
+  "STG Junior Cup": [
+    {
+      "number": 11,
+      "name": "Logan Monk",
+      "team": "OH Logan Monk Racing",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 13,
+      "name": "Owen Williams",
+      "team": "Michael Gilbert Racing",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 14,
+      "name": "Chase Black",
+      "team": "Pure Attitude Racing",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 23,
+      "name": "Jake Vandal",
+      "team": "Cycle Pros Racing",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 27,
+      "name": "Chris Clark",
+      "team": "Chris Clark/Karn's Performance Racing",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 31,
+      "name": "Kayla Yaakov",
+      "team": "Altus Motorsports",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 34,
+      "name": "Cody Wyman",
+      "team": "Alpha Omega",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 39,
+      "name": "Yandel Medina",
+      "team": "Yandel Racing",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 46,
+      "name": "Aaron Rothenberger",
+      "team": "Rothenberger Racing",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 47,
+      "name": "Kreece Elliott",
+      "team": "Elliott Racing",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 48,
+      "name": "Max VanDenBrouck",
+      "team": "SportbikeTrackGear.com",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 55,
+      "name": "Aden Thao",
+      "team": "Calishine Racing",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 62,
+      "name": "Joseph LiMandri Jr  Garden City, NY",
+      "team": "Racing/JL62 Team",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 69,
+      "name": "Hayden Bicknese",
+      "team": "Bicknese Racing",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 73,
+      "name": "Keagan Brown",
+      "team": "Keagan Brown Racing",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 81,
+      "name": "Dezrae Caldwell",
+      "team": "3D Motorsports LLC",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 83,
+      "name": "Ivan Rivera",
+      "team": "A.I.R. Onze Moto Racing Team",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 96,
+      "name": "Gus Rodio",
+      "team": "Rodio Racing",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 97,
+      "name": "Ryota Ogiwara",
+      "team": "Team ISO",
+      "bike": "Kawasaki Ninja 400 "
+    },
+    {
+      "number": 99,
+      "name": "Avery Dreher",
+      "team": "Bad Boys Racing",
+      "bike": "Kawasaki Ninja 400 "
+    }
+  ]
+}
