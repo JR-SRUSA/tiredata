@@ -84,3 +84,13 @@ selectClass.addEventListener('change', e => {
   }
 })
 
+class TireData extends HTMLElement {
+  constructor() {
+    super();
+    let template = document.querySelector('#tireData'),
+      templateData = template.content;
+
+    const shadowRoot = this.attachShadow({mode: 'open'}).appendChild(templateData.cloneNode(true));
+  }
+}
+customElements.define("tire-data", TireData);
