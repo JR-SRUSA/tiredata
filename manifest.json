@@ -1,7 +1,7 @@
 {
   "name": "Dunlop MotoAmerica Tyre Data",
   "short_name": "Tyre Data",
-  "start_url": "/tiredata",
+  "start_url": "/tiredata/",
   "icons": [
     {
       "src": "imgs/manifest-icon-192.maskable.png",
@@ -29,7 +29,7 @@
     }
   ],
   "theme_color": "#ffde00",
-  "background_color": "#eeeeee",
+  "background_color": "#333333",
   "display": "fullscreen",
   "orientation": "portrait"
 }
