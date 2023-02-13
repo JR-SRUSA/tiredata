@@ -91,6 +91,18 @@ class TireData extends HTMLElement {
       templateData = template.content;
 
     const shadowRoot = this.attachShadow({mode: 'open'}).appendChild(templateData.cloneNode(true));
+
+  }
+
+  connectedCallback() {
+    let cameraFileInput = this.shadowRoot.querySelector('#cameraFileInput');
+    cameraFileInput.addEventListener('change', this.takePhoto)
+  }
+
+  takePhoto(event) {
+    console.log('Say Cheese!')
+    this.shadowRoot.querySelector('#pictureFromCamera').setAttribute("src", window.URL.createObjectURL(this.files[0]));
   }
 }
 customElements.define("tire-data", TireData);
+

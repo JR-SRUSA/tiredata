@@ -6,6 +6,8 @@
     <link rel="manifest" href="manifest.json">
     <title>Dunlop MotoAmerica Tyre Log</title>
 
+    <link rel="stylesheet" href="index.css">
+
     <link rel="apple-touch-icon" href="imgs/apple-icon-180.png">
 
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -139,41 +141,76 @@
 </body>
 
 <template id="tireData">
-    <div>
-        <div>
-            <label for="selCpd">Compound: </label>
-            <select id="selCpd">
-                <option>R0</option>
-                <option>R3</option>
-                <option>R5</option>
-                <option>R7</option>
-                <option>R8</option>
-            </select>
-        </div>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+<!--  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">-->
+  <style>
+    #cameraFileInput {
+      display: none;
+    }
 
-        <div>
-            <label for="tireId">Tire ID:</label>
-            <input id="tireId" type="text">
-        </div>
+    #pictureFromCamera {
+      width: 100%;
+      height: auto;
+      margin-top: 16px;
+    }
 
-        <div>
-            <label for="tireTempL">Left</label>
-            <input id="tireTempL" type="number">
-        </div>
-        <div>
-            <label for="tireTempM">Middle</label>
-            <input id="tireTempM" type="number">
-        </div>
-        <div>
-            <label for="tireTempR">Right</label>
-            <input id="tireTempR" type="number">
-        </div>
+    .lblInput {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
 
-        <div>
-            <label for="tirePressure">Pressure</label>
-            <input id="tirePressure" type="number" step="0.01">
-        </div>
+    .container {
+      max-width: 300px;
+    }
+  </style>
+
+  <div class="container">
+    <div class="lblInput">
+      <label for="selCpd">Compound</label>
+      <select id="selCpd">
+        <option>R0</option>
+        <option>R3</option>
+        <option>R5</option>
+        <option>R7</option>
+        <option>R8</option>
+      </select>
     </div>
+
+    <div class="lblInput">
+      <label for="tireNewCheck">New Tire?</label>
+      <input id="tireNewCheck" type="checkbox">
+    </div>
+
+    <div class="lblInput">
+      <label for="tireId">Tire ID</label>
+      <input id="tireId" type="text">
+    </div>
+
+    <div class="lblInput">
+      <label for="tireTempL">Left</label>
+      <input id="tireTempL" type="number">
+    </div>
+    <div class="lblInput">
+      <label for="tireTempM">Middle</label>
+      <input id="tireTempM" type="number">
+    </div>
+    <div class="lblInput">
+      <label for="tireTempR">Right</label>
+      <input id="tireTempR" type="number">
+    </div>
+
+    <div class="lblInput">
+      <label for="tirePressure">Pressure</label>
+      <input id="tirePressure" type="number" step="0.01">
+    </div>
+
+    <label for="cameraFileInput">
+      <span class="material-symbols-outlined">camera</span>
+      <input id="cameraFileInput" type="file" accept="image/*" capture="environment">
+    </label>
+    <img id="pictureFromCamera">
+  </div>
+
 </template>
 
 <script type="module" src="tire_entry.js"></script>
