@@ -96,12 +96,11 @@ class TireData extends HTMLElement {
 
   connectedCallback() {
     let cameraFileInput = this.shadowRoot.querySelector('#cameraFileInput');
-    cameraFileInput.addEventListener('change', this.takePhoto)
-  }
-
-  takePhoto(event) {
-    console.log('Say Cheese!')
-    this.shadowRoot.querySelector('#pictureFromCamera').setAttribute("src", window.URL.createObjectURL(this.files[0]));
+    cameraFileInput.addEventListener('change', e => {
+      let pictureDisplay = this.shadowRoot.querySelector('#pictureFromCamera'),
+        imageInput = this.shadowRoot.querySelector;
+      pictureDisplay.setAttribute("src", window.URL.createObjectURL(cameraFileInput.files[0]));
+    })
   }
 }
 customElements.define("tire-data", TireData);
